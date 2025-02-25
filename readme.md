@@ -5,7 +5,7 @@
 This project demonstrates how to create smooth screen transition animations using **Shared Elements** from Reanimated. Inspired by the **Zoom Navigation Transition** in SwiftUI on iOS 18, I explored how we can achieve a similar effect in **React Native**. The result? A more natural and engaging navigation experience! 🚀  
 
 ## 🎥 Demo  
-Check out the smooth screen transition in the video I shared on my [LinkedIn](#).  
+Check out the smooth screen transition in the video I shared on my [LinkedIn](https://www.linkedin.com/posts/paulo-cesar-barroso_reactnative-reanimated-ios-activity-7298530066056056834-ylUc?utm_source=share&utm_medium=member_desktop&rcm=ACoAADTpiNABbP3hFZJ8XIAhlwtJ9kE-RAl4Dug).  
 
 ## ✨ How it works?  
 Unlike standard transitions, where a new screen simply appears, **Shared Elements** allow an **element from screen A to transform into screen B**, making the experience more fluid and seamless.  
@@ -58,7 +58,7 @@ And in `DetailsScreen.tsx`, we bind the same tag to ensure a smooth transition:
 ## 🚀 Project Setup  
 To run this project on your local machine, follow these steps:  
 
-1️⃣ **Ensure you have an up-to-date Expo environment** → [Get Started with Expo](https://docs.expo.dev/get-started/installation/)  
+1️⃣ **Ensure you have an up-to-date Expo environment** → [Get Started with Expo]([https://docs.expo.dev/get-started/installation/](https://docs.expo.dev/get-started/set-up-your-environment/?mode=development-build&buildEnv=local))  
 2️⃣ **Clone the project**  
 ```sh
 git clone https://github.com/Pcfilho/SharedElements.git
