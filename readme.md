@@ -61,11 +61,11 @@ To run this project on your local machine, follow these steps:
 1️⃣ **Ensure you have an up-to-date Expo environment** → [Get Started with Expo](https://docs.expo.dev/get-started/installation/)  
 2️⃣ **Clone the project**  
 ```sh
-git clone <repository-url>
+git clone https://github.com/Pcfilho/SharedElements.git
 ```  
 3️⃣ **Navigate to the project directory**  
 ```sh
-cd <project-folder>
+cd SharedElements
 ```  
 4️⃣ **Install dependencies**  
 ```sh
